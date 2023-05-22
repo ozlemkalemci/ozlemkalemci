@@ -7,9 +7,9 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=ozlemkalemci&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github&card_width=800)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozlemkalemci&theme=onedark&hide_border=false&card_width=800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkalemci&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=800)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ozlemkalemci&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github&card_width=750)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ozlemkalemci&theme=onedark&hide_border=false&card_width=750)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkalemci&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=750)<br/>
 
 # 💻 Tech Stack:
 
