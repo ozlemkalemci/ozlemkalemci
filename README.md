@@ -1,15 +1,15 @@
 # 💫 About Me:
-👩‍🎓I graduated from two universities. One of them is Osmangazi University industrial engineering department and the <br>other is Akdeniz University computer programming department.<br><br>
-👩‍💻Last year, I received training in data science. In the Garanti BBVA data science competition on Kaggle, my team and <br>I ranked 101st out of 174 teams. <br><br>
-🌱Currently, I am a student of full-stack development. I am learning Blazor, .NET, and C#, and I have acquired skills in <br>technologies like Selenium, SignalR, and Clean Architecture. <br><br>
-🌻With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative <br>projects.
+👩‍🎓I graduated from two universities. One of them is Osmangazi University industrial engineering department and the other is Akdeniz University computer programming department.<br><br>
+👩‍💻Last year, I received training in data science. In the Garanti BBVA data science competition on Kaggle, my team and I ranked 101st out of 174 teams. <br><br>
+🌱Currently, I am a student of full-stack development. I am learning Blazor, .NET, and C#, and I have acquired skills in technologies like Selenium, SignalR, and Clean Architecture. <br><br>
+🌻With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative projects.
 
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=ozlemkalemci&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github&card_width=750)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozlemkalemci&theme=onedark&hide_border=false&card_width=750)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkalemci&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=750)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ozlemkalemci&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github&card_width=800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ozlemkalemci&theme=onedark&hide_border=false&card_width=800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkalemci&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=800)<br/>
 
 # 💻 Tech Stack:
 
