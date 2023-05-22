@@ -5,8 +5,8 @@
 
 
 <div style="width: 800px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozlemkalemci&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub Stats" style="width: 421px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkalemci&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 379px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozlemkalemci&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github" alt="GitHub Stats" style="width: 421px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkalemci&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 379px">
 </div><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozlemkalemci&theme=onedark&hide_border=false&card_width=800)<br/>
