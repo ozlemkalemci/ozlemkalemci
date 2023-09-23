@@ -1,8 +1,14 @@
 # 💫 About Me:
-👩‍🎓I graduated from two universities. One of them is Osmangazi University industrial engineering department and the other is Akdeniz University computer programming department.<br><br>
-👩‍💻Last year, I received training in data science. In the Garanti BBVA data science competition on Kaggle, my team and I ranked 101st out of 174 teams. <br><br>
-🌱Currently, I am a student of full-stack development. I am learning Blazor, .NET, and C#, and I have acquired skills in technologies like Selenium, SignalR, and Clean Architecture. <br><br>
-🌻With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative projects.
+
+👩‍🎓 I graduated from two universities. One of them is the Industrial Engineering department at Osmangazi University, and the other is the Computer Programming department at Akdeniz University.
+
+👩‍💻 In 2022, I received training in data science. In the Garanti BBVA data science competition on Kaggle, my team and I ranked 101st out of 174 teams.
+
+🌱 This year, I graduated from the Upschool Full Stack Development program. During this process, I learned technologies like Blazor, .NET, and C#, and I acquired skills in technologies such as Selenium, SignalR, and Clean Architecture.
+
+👩‍💼 I am currently working as a software engineer.
+
+🌻 With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative projects.
 
 # 📊 GitHub Stats:
 
