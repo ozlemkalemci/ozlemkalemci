@@ -2,11 +2,11 @@
 
 👩‍🎓 I graduated from two universities. One of them is the Industrial Engineering department at Osmangazi University, and the other is the Computer Programming department at Akdeniz University.
 
-👩‍💻 In 2022, I received training in data science. In the Garanti BBVA data science competition on Kaggle, my team and I ranked 101st out of 174 teams.
+👩‍💻 In 2022, I received training in data science and machine learning.
 
 🌱 This year, I graduated from the Upschool Full Stack Development program. During this process, I learned technologies like Blazor, .NET, and C#, and I acquired skills in technologies such as Selenium, SignalR, and Clean Architecture.
 
-👩‍💼 I am currently working as a software engineer.
+👩‍💼 I am currently working as a software engineer at İntif A.Ş.
 
 🌻 With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative projects.
 
