@@ -4,9 +4,9 @@
 
 👩‍💻 In 2022, I received training in data science and machine learning.
 
-🌱 This year, I graduated from the Upschool Full Stack Development program. During this process, I learned technologies like Blazor, .NET, and C#, and I acquired skills in technologies such as Selenium, SignalR, and Clean Architecture.
+🌱 I graduated from the Upschool Full Stack Development program. During this process, I learned technologies like Blazor, .NET, and C#, and I acquired skills in technologies such as Selenium, SignalR, and Clean Architecture.
 
-👩‍💼 I am currently working as a software engineer at İntif A.Ş.
+👩‍💼 I am currently working as a software engineer at İntif A.Ş. I develop ERP software, specializing in coding and enhancing modules for quality control, human resources, and task tracking.
 
 🌻 With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative projects.
 
