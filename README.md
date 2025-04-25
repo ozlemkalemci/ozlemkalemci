@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-👩‍🎓 I graduated from two universities. One of them is the Industrial Engineering department at Osmangazi University, and the other is the Computer Programming department at Akdeniz University.
+👩‍🎓 I hold dual degrees in Industrial Engineering from Osmangazi University and Computer Programming from Akdeniz University.
 
-👩‍💻 In 2022, I received training in data science and machine learning.
+👩‍💻 In 2022, I completed training in Data Science and Machine Learning, gaining experience in analytical thinking and model development.
 
-🌱 I graduated from the Upschool Full Stack Development program. During this process, I learned technologies like Blazor, .NET, and C#, and I acquired skills in technologies such as Selenium, SignalR, and Clean Architecture.
+🌱 I am a graduate of the Upschool Full Stack Development Program, where I worked with technologies such as C#, .NET, Blazor, TypeScript, and MariaDB, and gained experience in Clean Architecture, SignalR, and Selenium.
 
-👩‍💼 I am currently working as a software engineer at İntif A.Ş. I develop ERP software, specializing in coding and enhancing modules for quality control, human resources, and task tracking.
+👩‍💼 I currently work as a Software Engineer at İntif A.Ş., where I develop and maintain ERP modules. I focus on quality control, human resources, and task tracking systems using C#, .NET, WinForms, DevExpress, MSSQL, and Blazor.
 
-🌻 With my passion for technology and a strong drive for continuous self-improvement, I aim to contribute to innovative projects.
+🚀 With a deep passion for technology and a strong commitment to continuous learning, I strive to contribute to impactful and innovative software solutions.
 
 # 📊 GitHub Stats:
 
